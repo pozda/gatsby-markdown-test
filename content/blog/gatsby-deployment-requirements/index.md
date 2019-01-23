@@ -3,7 +3,9 @@ title: Gatsby Deployment Requirements!
 date: '2019-01-23T21:47:32.169Z'
 ---
 
-## Rock Your Socks by Tenacious D
+## Gatsby MArkdown Heroku Deploy via Github pushes to master branch
+
+![Garden by the Bay in Singapore](./gardenByTheBay.png)
 
 after installing gatsby-cli ``npm i -g gatsby-cli`` install gatsby blog starter
 
